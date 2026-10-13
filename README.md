@@ -1,2 +1,2 @@
 # git
-its a project repo
+its a project repository
